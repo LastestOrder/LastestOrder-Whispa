@@ -1,0 +1,9 @@
+c:\users\whispa\YandexDisk\GeekBrains\C#\Dudin_Nikolay\AsteroidGame_L1HW\AsteroidGame\bin\Debug\AsteroidGame.exe.config
+c:\users\whispa\YandexDisk\GeekBrains\C#\Dudin_Nikolay\AsteroidGame_L1HW\AsteroidGame\bin\Debug\AsteroidGame.exe
+c:\users\whispa\YandexDisk\GeekBrains\C#\Dudin_Nikolay\AsteroidGame_L1HW\AsteroidGame\bin\Debug\AsteroidGame.pdb
+c:\users\whispa\YandexDisk\GeekBrains\C#\Dudin_Nikolay\AsteroidGame_L1HW\AsteroidGame\obj\Debug\AsteroidGame.csprojResolveAssemblyReference.cache
+c:\users\whispa\YandexDisk\GeekBrains\C#\Dudin_Nikolay\AsteroidGame_L1HW\AsteroidGame\obj\Debug\AsteroidGame.csproj.CoreCompileInputs.cache
+c:\users\whispa\YandexDisk\GeekBrains\C#\Dudin_Nikolay\AsteroidGame_L1HW\AsteroidGame\obj\Debug\AsteroidGame.exe
+c:\users\whispa\YandexDisk\GeekBrains\C#\Dudin_Nikolay\AsteroidGame_L1HW\AsteroidGame\obj\Debug\AsteroidGame.pdb
+c:\users\whispa\YandexDisk\GeekBrains\C#\Dudin_Nikolay\AsteroidGame_L1HW\AsteroidGame\obj\Debug\AsteroidGame.Properties.Resources.resources
+c:\users\whispa\YandexDisk\GeekBrains\C#\Dudin_Nikolay\AsteroidGame_L1HW\AsteroidGame\obj\Debug\AsteroidGame.csproj.GenerateResource.cache
